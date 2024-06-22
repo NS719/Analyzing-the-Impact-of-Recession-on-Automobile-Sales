@@ -36,7 +36,8 @@ The dataset includes the following variables:
 10. Vehicle_Type: The type of vehicles sold; Supperminicar, Smallfamiliycar, Mediumfamilycar, Executivecar, Sports.
 11. Competition: The measure of competition in the market, such as the number of competitors or market share of major manufacturers.
 12. Month: Month of the observation extracted from Date.
-13. Year: Year of the observation extracted from Date.
+13. Year: Year of the observation extracted from Date. \
+
 Various factors mentioned above are examined from the dataset, aiming to gain insights into how recessions impact automobile sales for the company.
 
 *This Project consists of 2 Parts:*
