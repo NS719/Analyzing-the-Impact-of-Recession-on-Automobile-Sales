@@ -1,9 +1,10 @@
-# Project Overview
-### Analyzing the Impact of Recession on Automobile Sales
+# Analyzing the Impact of Recession on Automobile Sales 
+
+## Project Overview
 You have been hired by XYZAutomotives as a data scientist. Your first task is to analyze the historical data and give the company directors insights on how the sales were affected during times of recession. You will provide a number of charts/plots to visualize the data and make it easy for the directors to understand your analysis.
 This project is a graded assignment for the [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization/) course offered by IBM. 
 
-## About the dataset
+## About the Dataset
 This assignment presents various questions for analysing data to understand the historical trends in automobile sales during recession periods.
 
 recession period 1 - year 1980
